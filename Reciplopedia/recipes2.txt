@@ -1,0 +1,501 @@
+New Recipe
+Pancakes
+DESSERT
+20
+images\Pancakes.jpg
+* eggs 2.0 PIECES
+* milk 480.0 ML
+* flour 320.0 GRAMS
+In a large bowl, mix together the milk and the eggs. Add the flour to the wet ingredients. Mix until
+incorporated but batter is still slightly lumpy. Batter should be thick.
+Using a greased or non-stick pan cook about 1/4 or 1/3 cup batter at a time on low-medium heat.
+This should take a few minutes. Then flip when the edges are golden brown and cook for another
+minute. Serve with fresh fruit, honey, syrup, chocolate sauce, or anything you like!
+
+New Recipe
+Tarator
+APPETIZER
+20
+images\Tarator.jpg
+* olive oil 50.0 ML
+* cucumber 2.0 PIECES
+* yogurt 500.0 GRAMS
+Cut the cucumbers into cubes and put them in a bowl. You may aslo grate them but it changes the
+look and the consistency. Beat the yogurt with a fork until it gets liquid and pour it over the 
+cucumbers. Add the crushed garlic, the walnuts and the minced dill as well as salt and oil to taste.
+If needed add some water to make the soup as liquid as you like but take care not to make it too 
+"thin". Put into the refrigerator to cool or add ice cubes. Serve cold.
+
+New Recipe
+French fries 
+MAIN
+30
+images\Fries.jpg
+* vegetable oil 100.0 ML
+* salt 3.0 TSP
+* potatoes 1000.0 GRAMS
+Begin by peeling the potatoes and rinsing them under cold water to remove any excess starch. Pat them dry with a clean kitchen towel or paper towels.
+Cut the potatoes into evenly-sized sticks or strips. You can adjust the thickness based on your preference, but aim for roughly 1/4 to 1/2 inch (0.6 to 1.3 cm) in thickness.
+Place the cut potatoes in a large bowl and cover them with cold water. Allow them to soak for about 30 minutes. This step helps remove some of the starch, resulting in crispier fries.
+While the potatoes are soaking, heat vegetable oil in a deep pot or deep fryer. You'll need enough oil to completely submerge the fries. The oil should be heated to around 325°F (165°C).
+Once the potatoes have finished soaking, drain them well and pat them dry with a clean kitchen towel or paper towels.
+Carefully add a batch of the dried potato sticks to the hot oil. Be cautious to avoid overcrowding the pot, as this can lead to soggy fries. Fry them in batches if necessary.
+Cook the fries in the hot oil for about 5-7 minutes or until they are light golden brown. Use a slotted spoon or a spider strainer to remove the fries from the oil and transfer them to a 
+paper towel-lined plate or baking sheet.
+Increase the temperature of the oil to 375°F (190°C). Once the oil is hot, return the partially cooked fries to the oil in batches. Cook for an additional 2-3 minutes or until 
+the fries turn golden brown and crispy.Once cooked to your desired level of crispiness, remove the fries from the oil and transfer them to a paper towel-lined plate or baking sheet.
+Immediately season them with salt while they are still hot.
+
+New Recipe
+Chicken with rice
+MAIN
+60
+images\ChickenWithRice.jpg
+* white rice 200.0 GRAMS
+* salt 1.0 TSP
+* carrot 1.0 PIECES
+* oregano 1.0 TSP
+* chicken breasts 4.0 PIECES
+* parsley 50.0 GRAMS
+* onion 1.0 PIECES
+* pepper 1.0 PIECES
+* chicken broth 480.0 ML
+* paprika 1.0 TSP
+* thyme 1.0 TSP
+* olive oil 10.0 ML
+* garlic 3.0 CLOVES
+* black pepper 0.25 TSP
+Preheat your oven to 375°F (190°C).
+Season the chicken breasts or thighs with salt and black pepper on both sides.
+In a large oven-safe skillet or Dutch oven, heat the olive oil over medium-high heat. Add the chicken and cook until browned on both sides, about 3-4 minutes per side.
+Remove the chicken from the skillet and set aside.In the same skillet, add the chopped onion, minced garlic, diced red bell pepper, and diced carrot. Saut? until the 
+vegetables have softened, about 5 minutes.Add the rice, paprika, dried thyme, dried oregano, salt, and black pepper to the skillet. Stir well to coat the rice and vegetables 
+with the spices.Pour the chicken broth into the skillet and bring it to a boil. Reduce the heat to low and place the browned chicken on top of the rice mixture.
+Cover the skillet with a lid or aluminum foil and transfer it to the preheated oven. Bake for 25-30 minutes or until the chicken is cooked through and the rice is tender.
+Once cooked, remove the skillet from the oven. Allow the dish to rest for a few minutes before serving.
+Garnish with fresh parsley or cilantro, if desired, and serve the chicken with rice hot.
+
+New Recipe
+Chicken with potatoes
+MAIN
+75
+images\ChickenWithPotatoes.jpg
+* rosemary 1.0 TSP
+* salt 0.5 TSP
+* parsley 40.0 GRAMS
+* chicken thighs 4.0 PIECES
+* onion 1.0 PIECES
+* chicken broth 120.0 ML
+* paprika 1.0 TSP
+* olive oil 2.0 ML
+* thyme 1.0 TSP
+* garlic 4.0 CLOVES
+* black pepper 0.25 TSP
+* potatoes 700.0 GRAMS
+* chicken drumsticks 4.0 PIECES
+Preheat your oven to 375°F (190°C).
+In a large oven-safe skillet or baking dish, add the chicken thighs, drumsticks, potato chunks, sliced onion, and minced garlic.
+Drizzle olive oil over the chicken and potatoes. Sprinkle with paprika, dried thyme, dried rosemary, salt, and black pepper. Use your hands to toss and coat the chicken and 
+potatoes evenly with the seasonings.Pour the chicken broth or water into the skillet or baking dish.
+Cover the skillet or baking dish with a lid or aluminum foil and transfer it to the preheated oven. Bake for about 45 minutes.
+After 45 minutes, remove the lid or foil and continue baking for an additional 20-30 minutes or until the chicken is cooked through and the potatoes are tender. The chicken 
+skin should be golden and crispy.Once cooked, remove the skillet or baking dish from the oven and let it rest for a few minutes before serving.
+Garnish with fresh parsley, if desired, and serve the chicken with potatoes hot.
+
+New Recipe
+Cheesecake
+DESSERT
+90
+images\Cheesecake.jpg
+* vanilla extract 1.0 TSP
+* crackers 250.0 GRAMS
+* butter 600.0 GRAMS
+* eggs 3.0 PIECES
+* cream cheese 680.0 GRAMS
+* sugar 50.0 GRAMS
+Preheat your oven to 325°F (160°C).
+In a medium bowl, combine the graham cracker crumbs, granulated sugar, and melted butter. Mix well until the crumbs are evenly coated.
+Press the crumb mixture into the bottom of a 9-inch (23cm) springform pan, creating an even crust. Use the back of a spoon or the bottom of a glass to press the crumbs firmly 
+into the pan.In a large mixing bowl, beat the cream cheese until smooth and creamy. Add the granulated sugar and vanilla extract, and continue to beat until well combined.
+Add the eggs, one at a time, beating well after each addition. Scrape down the sides of the bowl as needed to ensure all the ingredients are fully incorporated.
+Pour the cream cheese mixture over the crust in the springform pan. Smooth the top with a spatula or the back of a spoon.
+Place the springform pan on a baking sheet to catch any potential leaks. Bake in the preheated oven for about 1 hour or until the center is set and the edges are slightly golden.
+Once baked, turn off the oven and leave the cheesecake in the oven with the door slightly ajar for about 1 hour. This gradual cooling helps prevent cracks.
+Remove the cheesecake from the oven and let it cool completely at room temperature. Once cooled, cover it with plastic wrap and refrigerate for at least 4 hours or overnight to
+allow it to set. When ready to serve, carefully remove the sides of the springform pan. Transfer the cheesecake to a serving platter.
+If desired, top the cheesecake with fresh berries, fruit compote, or your preferred topping.
+Slice and serve chilled. Enjoy your homemade cheesecake!
+
+New Recipe
+Caesar salad
+APPETIZER
+15
+images\CeaserSalad.jpg
+* lettuce 1.0 PIECES
+* mayonnaise 120.0 GRAMS
+* anchovy fillets 10.0 GRAMS
+* parmesan cheese 75.0 GRAMS
+* olive oil 60.0 ML
+* garlic 2.0 CLOVES
+* mustard 1.0 TSP
+* croutons 40.0 GRAMS
+* lemon juice 2.0 TBSP
+In a large salad bowl, add the torn romaine lettuce.
+In a small mixing bowl, combine the minced garlic, chopped anchovy fillets (if using), Dijon mustard, lemon juice, mayonnaise, grated Parmesan cheese, olive oil, salt, and pepper.
+Whisk together until well combined.
+Drizzle the dressing over the romaine lettuce in the salad bowl. Toss gently to coat the lettuce leaves with the dressing.
+Sprinkle the croutons over the salad.
+Add the grated Parmesan cheese on top.
+Toss the salad again to ensure all the ingredients are evenly distributed.
+Serve the Caesar salad immediately as an appetizer or as a side dish to accompany your main course.
+
+New Recipe
+Souffle
+DESSERT
+45
+images\Souffle.jpg
+* butter 45.0 GRAMS
+* milk 240.0 ML
+* eggs 4.0 PIECES
+* cheddar 120.0 GRAMS
+* flour 30.0 GRAMS
+Preheat your oven to 375°F (190°C). Place a baking sheet in the oven to preheat as well.
+Butter the insides of four individual ramekins generously. Dust the ramekins with grated cheese, shaking off any excess. This will help the souffl? rise and cling to the sides.
+In a saucepan, melt the butter over medium heat. Once melted, add the flour and whisk continuously for about 1 minute to create a smooth paste, known as a roux.
+Gradually pour in the milk while whisking continuously, ensuring no lumps form. Cook the mixture for a few minutes until it thickens to a smooth and creamy consistency, resembling 
+a white sauce or b?chamel. Remove the saucepan from the heat and add the grated cheese. Stir until the cheese is melted and fully incorporated into the sauce. Season with salt and 
+pepper to taste.In a separate bowl, beat the egg yolks lightly. Gradually pour the beaten egg yolks into the cheese sauce, whisking continuously until well combined.
+In another bowl, using an electric mixer or a whisk, beat the egg whites until they reach stiff peaks. If desired, add a pinch of cream of tartar to stabilize the egg whites and 
+help them hold their shape. Gently fold about a third of the beaten egg whites into the cheese sauce mixture to lighten it. Then, carefully fold in the remaining egg whites, being 
+cautious not to overmix and deflate the mixture. Divide the souffl? mixture evenly among the prepared ramekins, filling them almost to the top.
+Place the ramekins on the preheated baking sheet in the oven. Bake for approximately 15-20 minutes or until the souffl?s are puffed up, golden brown on top, and still slightly jiggly 
+in the center. Once baked, remove the souffl?s from the oven and serve immediately. They will begin to deflate quickly, so enjoy them promptly.
+
+New Recipe
+Apple pie
+DESSERT
+90
+images\ApplePie.jpg
+* butter 30.0 GRAMS
+* salt 1.25 TSP
+* nutmeg 0.25 TSP
+* cinnamon 1.0 TSP
+* sugar 155.0 GRAMS
+* apple 7.0 PIECES
+* lemon juice 1.0 TBSP
+* flour 330.0 GRAMS
+Preheat your oven to 375°F (190°C).
+In a large mixing bowl, combine the flour, salt, and granulated sugar for the crust. Add the cold cubed butter and use a pastry cutter or your fingers to cut the butter into the flour 
+mixture until it resembles coarse crumbs. Gradually add the ice water, starting with 1/4 cup, and mix gently with a fork until the dough comes together. Add more water, a tablespoon 
+at a time, if needed. Be careful not to overmix the dough. Divide the dough in half and shape each portion into a disk. Wrap them individually in plastic wrap and refrigerate for at 
+least 30 minutes. In another mixing bowl, combine the sliced apples, granulated sugar, flour, cinnamon, nutmeg, salt, and lemon juice for the filling. Toss gently until the apples are 
+coated with the mixture. Roll out one chilled dough disk on a lightly floured surface to fit a 9-inch (23cm) pie dish. Carefully transfer the rolled-out dough to the pie dish, gently 
+pressing it into the bottom and sides. Pour the apple filling into the pie dish, making sure it is evenly distributed. Dot the top of the filling with the small pieces of butter.
+Roll out the second chilled dough disk to create the top crust. You can leave it as a full round shape, or cut it into strips for a lattice design. Place the rolled-out crust over 
+the apple filling, or create a lattice pattern by weaving the strips of dough over the filling. Trim any excess dough from the edges and crimp them to seal the pie. You can use a fork or 
+your fingers to create a decorative edge. Optional: Brush the top crust with an egg wash made by whisking together one beaten egg and a tablespoon of milk or cream. This will give the crust a golden color.
+Place the pie on a baking sheet to catch any drips. Bake in the preheated oven for 50-60 minutes or until the crust is golden brown and the filling is bubbling.
+Once baked, remove the pie from the oven and let it cool on a wire rack for at least 1-2 hours before serving. This allows the filling to set.
+
+New Recipe
+Chocolate cake
+DESSERT
+55
+images\ChocolateCake.jpg
+* vanilla extract 4.0 TSP
+* salt 1.0 TSP
+* vegetable oil 120.0 ML
+* eggs 2.0 PIECES
+* milk 360.0 ML
+* cocoa powder 100.0 GRAMS
+* sugar 800.0 GRAMS
+* baking powder 1.5 TSP
+* baking soda 1.5 TSP
+* flour 210.0 GRAMS
+Preheat your oven to 350°F (175°C). Grease and flour two 9-inch (23cm) round cake pans, or line them with parchment paper for easier removal.
+In a large mixing bowl, sift together the flour, baking powder, baking soda, cocoa powder, granulated sugar, and salt. Mix well to combine.
+Add the eggs, milk, vegetable oil, and vanilla extract to the dry ingredients. Beat on medium speed with an electric mixer for about 2 minutes, until the batter is well combined and smooth.
+Reduce the mixer speed to low and carefully add the boiling water to the batter. Mix on low speed just until the boiling water is fully incorporated. The batter will be thin, but that's normal.
+Divide the batter equally between the prepared cake pans.
+Bake in the preheated oven for 30-35 minutes, or until a toothpick inserted into the center of the cakes comes out clean.
+Remove the cakes from the oven and let them cool in the pans for about 10 minutes. Then, transfer the cakes to a wire rack to cool completely.
+While the cakes are cooling, prepare the frosting. In a large mixing bowl, beat the softened butter until creamy and smooth.
+Gradually add the powdered sugar and cocoa powder, mixing on low speed until well combined.
+Pour in the milk and vanilla extract, and continue to beat on medium speed until the frosting is smooth and fluffy. If needed, add more powdered sugar or milk to achieve the desired consistency.
+Once the cakes are completely cooled, place one cake layer on a serving plate. Spread a generous amount of frosting on top.
+Place the second cake layer on top of the frosting and frost the sides and top of the cake with the remaining frosting.
+Decorate the cake with chocolate shavings, sprinkles, or any desired toppings, if desired.
+Allow the cake to set for a short time before slicing and serving.
+
+New Recipe
+Yogurt with berries
+DESSERT
+5
+images\YogurtWithBerries.jpg
+* berries 100.0 GRAMS
+* greek yogurt 250.0 GRAMS
+* honey 1.0 TBSP
+* granola 2.0 TBSP
+In a serving bowl or glass, spoon the Greek yogurt.
+Rinse the fresh berries under cold water and gently pat them dry with a paper towel.
+Add the fresh berries to the bowl on top of the yogurt. You can use a single type of berry or a mix of your favorites.
+Drizzle honey or maple syrup over the yogurt and berries if you prefer a sweeter taste. Adjust the amount according to your preference.
+If desired, sprinkle granola or chopped nuts on top for added texture and crunch.
+Gently stir the yogurt, berries, and any additional toppings together to combine, or enjoy each element separately.
+Serve immediately and enjoy your delicious and nutritious yogurt with berries!
+
+New Recipe
+Chicken soup
+APPETIZER
+90
+images\ChickenSoup.jpg
+* chicken 1500.0 GRAMS
+* thyme 1.0 TSP
+* carrot 2.0 PIECES
+* garlic 2.0 CLOVES
+* parsley 40.0 GRAMS
+* celery stalks 2.0 PIECES
+* onion 1.0 PIECES
+* chicken broth 2000.0 ML
+Place the whole chicken in a large pot and cover it with water or chicken broth.
+Add the chopped onion, sliced carrots, sliced celery, minced garlic, bay leaf, dried thyme, salt, and pepper to the pot.
+Bring the liquid to a boil over high heat. Once boiling, reduce the heat to low and cover the pot.
+Simmer the chicken soup for about 1 hour or until the chicken is cooked through and tender. Skim off any foam or impurities that rise to the surface during cooking.
+Once the chicken is cooked, carefully remove it from the pot and set it aside to cool slightly. Remove the bay leaf from the soup.
+While the chicken is cooling, you can continue simmering the soup to further develop the flavors. Alternatively, you can strain the broth to remove the vegetables and have a clear
+broth for your soup. Once the chicken is cool enough to handle, shred the meat from the bones using your hands or a fork. Discard the skin and bones.
+Return the shredded chicken to the pot of soup. Adjust the seasoning with salt and pepper to taste.
+Simmer the chicken soup for another 15-20 minutes to allow the flavors to meld together.
+Serve the chicken soup hot in bowls, garnished with fresh chopped parsley if desired.
+
+New Recipe
+Potatoes with bacon
+MAIN
+50
+images\PotatoesWithBacon.jpg
+* thyme 0.5 TSP
+* garlic 2.0 CLOVES
+* parsley 40.0 GRAMS
+* potatoes 680.0 GRAMS
+* bacon 80.0 GRAMS
+* onion 1.0 PIECES
+Preheat your oven to 400°F (200°C).
+Place the chopped bacon in a large skillet or frying pan over medium heat. Cook the bacon until it becomes crispy and golden brown. Remove the bacon from the pan using a slotted 
+spoon and set it aside on a plate lined with paper towels to drain excess grease. In the same skillet or frying pan with the bacon fat, add the chopped onion and minced garlic. 
+Saut? over medium heat until the onion becomes translucent and fragrant, about 3-4 minutes.
+Add the cubed potatoes to the skillet, along with the dried thyme, salt, and pepper. Stir to coat the potatoes with the bacon fat and seasonings.
+Cook the potatoes, stirring occasionally, until they become golden brown on the outside and tender on the inside, about 15-20 minutes.
+Once the potatoes are cooked, transfer them to a baking dish or sheet pan. Spread them out in a single layer.
+Sprinkle the cooked bacon evenly over the potatoes.
+Place the baking dish or sheet pan in the preheated oven and bake for an additional 10-15 minutes, or until the potatoes and bacon become crisp and slightly caramelized.
+Remove the dish from the oven and let it cool slightly. Garnish with chopped fresh parsley, if desired.
+Serve the potatoes with bacon as a tasty side dish alongside your main course.
+
+New Recipe
+Avocado toast
+APPETIZER
+5
+images\AvocadoToast.jpg
+* bread slices 2.0 PIECES
+* cherry tomatoes 50.0 GRAMS
+* avocado 1.0 PIECES
+* lemon juice 2.0 TBSP
+Start by toasting your bread slices until they are crispy and golden brown. You can use a toaster or toast them in a preheated oven.
+While the bread is toasting, prepare the avocado. Cut the ripe avocado in half lengthwise and remove the pit. Scoop out the flesh with a spoon into a bowl.
+Mash the avocado with a fork until it reaches your desired consistency. You can leave it slightly chunky or make it smoother, depending on your preference.
+Squeeze the juice of half a lemon over the mashed avocado. The lemon juice adds a fresh flavor and helps prevent the avocado from browning too quickly.
+Season the avocado with salt and pepper to taste. Adjust the seasoning according to your preference.
+Once the bread is toasted, spread the mashed avocado evenly onto the bread slices.
+If desired, add any optional toppings to your avocado toast. Some popular choices include a sprinkle of red pepper flakes for heat, sliced radishes or cherry tomatoes for freshness, 
+crumbled feta cheese for tanginess, or a perfectly poached egg for added protein.
+Serve the avocado toast immediately and enjoy it while it's still warm.
+
+New Recipe
+Spaghetti Bolognese 
+MAIN
+105
+images\SpaghettiBolognese.jpg
+* ground beef 450.0 GRAMS
+* parmesan cheese 40.0 GRAMS
+* carrot 2.0 PIECES
+* oregano 1.0 TSP
+* spaghetti pasta 450.0 GRAMS
+* celery stalks 2.0 PIECES
+* onion 1.0 PIECES
+* tomato paste 2.0 TBSP
+* basil 1.0 TSP
+* bay leaf 1.0 PIECES
+* garlic 2.0 CLOVES
+* crushed tomatoes 400.0 GRAMS
+* vegetable broth 240.0 ML
+* red wine 120.0 ML
+In a large saucepan or Dutch oven, heat some olive oil over medium heat.
+Add the chopped onion, carrots, and celery to the pan. Saut? until the vegetables become softened and the onion becomes translucent, about 5-7 minutes.
+Add the minced garlic and cook for an additional minute until fragrant.
+Increase the heat to medium-high and add the ground beef to the pan. Break up the meat with a spoon or spatula and cook until browned and cooked through, stirring occasionally.
+Once the meat is browned, add the crushed tomatoes, tomato paste, beef or vegetable broth, and red wine (if using) to the pan. Stir to combine.
+Add the dried oregano, dried basil, bay leaf, salt, and pepper to the sauce. Stir well to incorporate the seasonings.
+Reduce the heat to low and simmer the sauce, partially covered, for at least 1 hour to allow the flavors to develop. You can simmer for longer if desired.
+While the sauce is simmering, bring a large pot of salted water to a boil. Cook the spaghetti pasta according to the package instructions until al dente. Drain the pasta.
+Remove the bay leaf from the sauce and taste for seasoning. Adjust the salt and pepper if needed.
+Serve the spaghetti by ladling the Bolognese sauce over the cooked pasta. Toss gently to coat the spaghetti with the sauce.
+Garnish with grated Parmesan cheese and fresh basil leaves, if desired.
+Serve the Spaghetti Bolognese hot and enjoy!
+
+New Recipe
+Rice with mushrooms
+MAIN
+30
+images\RiceWithMushrooms.jpg
+* white rice 190.0 GRAMS
+* olive oil 10.0 ML
+* thyme 1.0 TSP
+* garlic 2.0 CLOVES
+* vegetable broth 480.0 ML
+* onion 1.0 PIECES
+* mushrooms 225.0 GRAMS
+Rinse the rice under cold water until the water runs clear. This helps remove excess starch.
+In a medium-sized saucepan, melt the butter or heat the olive oil over medium heat.
+Add the chopped onion and minced garlic to the pan. Saut? until the onion becomes translucent and the garlic becomes fragrant, about 3-4 minutes.
+Add the sliced mushrooms to the pan and cook until they become tender and slightly golden brown, stirring occasionally. This should take around 5-7 minutes.
+Once the mushrooms are cooked, add the rinsed rice to the pan. Stir to coat the rice with the mushroom mixture and cook for an additional 1-2 minutes.
+Pour in the vegetable or chicken broth and add the dried thyme, salt, and pepper. Stir well to combine.
+Bring the mixture to a boil, then reduce the heat to low. Cover the saucepan with a lid and let the rice simmer for about 15-20 minutes, or until the rice is tender 
+and all the liquid is absorbed. Avoid lifting the lid while the rice is cooking to ensure even cooking.
+Once the rice is cooked, remove the saucepan from the heat and let it sit, covered, for an additional 5 minutes. This allows the rice to steam and fluff up.
+After the resting period, remove the lid and fluff the rice with a fork. Taste and adjust the seasoning if needed.
+Serve the rice with mushrooms hot, garnished with chopped fresh parsley if desired.
+
+New Recipe
+Chocolate chip cookies
+DESSERT
+20
+images\ChocolateChipCookies.jpg
+* vanilla extract 1.0 TSP
+* butter 226.0 GRAMS
+* salt 0.5 TSP
+* eggs 2.0 PIECES
+* chocolate chips 340.0 GRAMS
+* sugar 400.0 GRAMS
+* chopped nuts 100.0 GRAMS
+* baking soda 1.0 TSP
+* flour 375.0 GRAMS
+Preheat your oven to 375°F (190°C). Line baking sheets with parchment paper or silicone baking mats.
+In a large bowl, cream together the softened butter, granulated sugar, and brown sugar until light and fluffy. This can be done using a hand mixer or stand mixer.
+Add the eggs one at a time, beating well after each addition. Stir in the vanilla extract.
+In a separate bowl, whisk together the all-purpose flour, baking soda, and salt. Gradually add the dry ingredients to the butter and sugar mixture, mixing until just combined.
+Be careful not to overmix the dough. Fold in the chocolate chips and chopped nuts (if using) until evenly distributed throughout the dough.
+Drop rounded tablespoons or use a cookie scoop to portion the dough onto the prepared baking sheets, spacing them about 2 inches apart. You can also shape the dough into 
+balls and slightly flatten them with the palm of your hand. Bake the cookies in the preheated oven for 10-12 minutes, or until the edges are golden brown. 
+The centers may still appear slightly soft, but they will firm up as the cookies cool.
+Remove the baking sheets from the oven and let the cookies cool on the sheets for a few minutes. Then transfer them to wire racks to cool completely.
+Repeat the baking process with the remaining cookie dough until all the cookies are baked.
+Once the cookies are completely cooled, store them in an airtight container at room temperature. They can be enjoyed for several days.
+
+New Recipe
+Pizza Margherita
+MAIN
+150
+images\Pizza.jpg
+* basil 3.0 TSP
+* mozzarella 225.0 GRAMS
+* salt 1.0 TSP
+* olive oil 100.0 ML
+* instant yeast 1.0 TSP
+* sugar 5.0 GRAMS
+* flour 280.0 GRAMS
+* tomato sauce 120.0 ML
+In a large mixing bowl, combine the flour, instant yeast, salt, and sugar. Mix well.
+Gradually add the lukewarm water and olive oil to the dry ingredients. Stir until a soft dough forms.
+Transfer the dough to a floured surface and knead for about 5-7 minutes until it becomes smooth and elastic. You can also use a stand mixer with a
+dough hook attachment for kneading. Place the dough in a lightly oiled bowl and cover it with a clean kitchen towel or plastic wrap. 
+Let it rise in a warm, draft-free place for about 1-1.5 hours, or until the dough doubles in size.
+Preheat your oven to 475°F (245°C) and place a pizza stone or baking sheet in the oven to preheat as well.
+Once the dough has risen, punch it down to release any air bubbles. Transfer it to a floured surface and divide it into two equal portions.
+You can adjust the size based on how large you want your pizzas to be.
+Roll out each portion of the dough into a thin round or oval shape. Place the rolled dough on a piece of parchment paper.
+Spread half of the tomato sauce or pizza sauce evenly on each pizza dough, leaving a small border around the edges.
+Arrange the sliced mozzarella cheese on top of the sauce, followed by the sliced tomatoes. Sprinkle with salt and pepper to taste.
+Carefully transfer the pizzas on the parchment paper onto the preheated baking sheet or pizza stone in the oven.
+Bake the pizzas for about 15-20 minutes, or until the crust is golden brown and the cheese is bubbly and slightly browned.
+Remove the pizzas from the oven and garnish with fresh basil leaves. Drizzle with extra virgin olive oil for added flavor.
+Let the pizzas cool for a few minutes before slicing and serving.
+
+New Recipe
+Mac and cheese 
+MAIN
+20
+images\MacAndCheese.jpg
+* macaroni 225.0 GRAMS
+* butter 56.0 GRAMS
+* salt 0.5 TSP
+* milk 600.0 ML
+* cheddar 200.0 GRAMS
+* black pepper 0.25 TSP
+* flour 30.0 GRAMS
+Cook the macaroni pasta according to the package instructions until al dente. Drain and set aside.
+In a large saucepan, melt the butter over medium heat.
+Add the flour to the melted butter and whisk continuously for about 1 minute, until the mixture is smooth and free of lumps. 
+This creates a roux, which will thicken the cheese sauce.
+Slowly pour in the milk while whisking constantly to incorporate it into the roux. Continue whisking until the mixture thickens and comes to a simmer.
+Reduce the heat to low and add the shredded cheese to the sauce. Stir until the cheese is completely melted and the sauce is smooth and creamy.
+Season the cheese sauce with salt and black pepper. Taste and adjust the seasoning if needed.
+Add the cooked macaroni pasta to the cheese sauce and stir until the pasta is evenly coated.
+Optional: If you prefer a baked mac and cheese with a crispy topping, transfer the mixture to a greased baking dish. Sprinkle bread crumbs, cooked bacon bits, 
+chopped herbs, or additional shredded cheese on top.
+Preheat your oven to 375°F (190°C) and bake the mac and cheese for about 20-25 minutes, or until the top is golden brown and bubbling.
+Remove the mac and cheese from the oven and let it cool for a few minutes before serving.
+
+New Recipe
+Green salad
+APPETIZER
+15
+images\GreenSalad.jpg
+* lettuce 1.0 PIECES
+* cherry tomatoes 150.0 GRAMS
+* olive oil 60.0 ML
+* cucumber 1.0 PIECES
+* mustard 1.0 TSP
+* pepper 1.0 PIECES
+* onion 0.5 PIECES
+* lemon juice 2.0 TBSP
+Wash and dry the salad greens thoroughly. Tear or chop them into bite-sized pieces and place them in a large salad bowl.
+Add the sliced cucumber, bell pepper, cherry tomatoes, and red onion to the salad bowl. You can also add any other optional add-ons of your choice.
+In a small bowl, whisk together the extra virgin olive oil, lemon juice or vinegar, Dijon mustard, salt, and pepper until well combined. 
+Adjust the dressing ingredients to suit your taste.
+Drizzle the dressing over the salad ingredients in the bowl. Start with a smaller amount and add more as needed, tossing the salad gently to coat the ingredients evenly.
+Taste the salad and adjust the seasoning or dressing if desired.
+Serve the green salad immediately as a side dish or as a base for adding grilled chicken, shrimp, or other proteins.
+
+New Recipe
+Lasagna
+MAIN
+90
+images\Lasagna.jpg
+* mozzarella 550.0 GRAMS
+* ground beef 450.0 GRAMS
+* salt 1.0 TSP
+* parmesan cheese 120.0 GRAMS
+* lasagna noodles 12.0 PIECES
+* oregano 2.0 TSP
+* parsley 35.0 GRAMS
+* onion 1.0 PIECES
+* tomato paste 12.0 TBSP
+* basil 2.0 TSP
+* garlic 3.0 CLOVES
+* ricotta 320.0 GRAMS
+* crushed tomatoes 800.0 GRAMS
+* black pepper 0.5 TSP
+Preheat your oven to 375°F (190°C).
+In a large pot of salted boiling water, cook the lasagna noodles according to the package instructions. Drain and set aside.
+In a large skillet or saucepan, cook the ground beef or Italian sausage over medium heat until browned. Add the chopped onion and minced garlic, and cook until the onion is 
+softened and translucent. Add the crushed tomatoes, tomato paste, dried basil, dried oregano, salt, and black pepper to the skillet. Stir well to combine. 
+Reduce the heat to low and let the sauce simmer for about 15-20 minutes to allow the flavors to meld together.
+In a medium bowl, combine the shredded mozzarella cheese, ricotta cheese, and grated Parmesan cheese. Mix well.
+To assemble the lasagna, spread a thin layer of the meat sauce in the bottom of a 9x13-inch baking dish. Place a layer of cooked lasagna noodles on top, slightly overlapping them. 
+Spread a layer of the cheese mixture over the noodles, followed by another layer of the meat sauce. Repeat the layers until all the ingredients are used, finishing 
+with a layer of meat sauce on top.Cover the baking dish with aluminum foil and bake in the preheated oven for 30 minutes. Then, remove the foil and continue baking for an additional
+15 minutes or until the lasagna is hot and bubbly, and the cheese on top is golden brown.
+Remove the lasagna from the oven and let it cool for a few minutes before slicing. Garnish with fresh basil or parsley if desired.
+Serve the lasagna hot and enjoy!
+
