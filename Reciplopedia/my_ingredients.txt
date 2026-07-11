@@ -1,16 +1,20 @@
-* flour 220.0 GRAMS
-* anchovy fillets 10.0 GRAMS
-* greek yogurt 500.0 GRAMS
-* garlic 2.0 CLOVES
-* mustard 1.0 TSP
-* croutons 40.0 GRAMS
+* flour 2000.0 GRAMS
+* anchovy fillets 110.0 GRAMS
+* cheddar 120.0 GRAMS
+* greek yogurt 1500.0 GRAMS
+* garlic 9.0 CLOVES
+* mustard 6.0 TSP
+* butter 500.0 GRAMS
+* croutons 100.0 GRAMS
 * avocado 5.0 PIECES
-* milk 5080.0 ML
-* powdered sugar 150.0 GRAMS
-* eggs 10.0 PIECES
-* lettuce 1.0 PIECES
+* milk 6080.0 ML
+* powdered sugar 1500.0 GRAMS
+* eggs 16.0 PIECES
+* cocoa powder 500.0 GRAMS
+* lettuce 8.0 PIECES
 * mayonnaise 120.0 GRAMS
-* parmesan cheese 75.0 GRAMS
+* parmesan cheese 150.0 GRAMS
 * bread slices 4.0 PIECES
-* lemon juice 5.0 TBSP
+* lemon juice 10.0 TBSP
+* baking soda 8.0 TSP
 * olive oil 1000.0 ML
