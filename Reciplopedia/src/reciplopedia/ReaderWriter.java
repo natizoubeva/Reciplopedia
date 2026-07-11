@@ -82,7 +82,7 @@ public class ReaderWriter {
     // Loads all the ingredients from the MyIngredients file
     public static Map<String, Ingredient> loadMyIngredients() {
 	Map<String, Ingredient> map = new HashMap<>();
-	File file = new File("my_ingredients2.txt");
+	File file = new File("my_ingredients.txt");
 	try (Scanner sc = new Scanner(file)) {
 	    while (sc.hasNext()) {
 		Ingredient ingredient = loadIngredient(sc.nextLine());
@@ -97,7 +97,7 @@ public class ReaderWriter {
     // loads the text from the my_ingredients.txtx file
     public static String displayMyIngredients() {
 	String result = "";
-	File file = new File("my_ingredients2.txt");
+	File file = new File("my_ingredients.txt");
 	try (Scanner sc = new Scanner(file)) {
 	    while (sc.hasNext()) {
 		result += sc.nextLine() + "\n";
@@ -110,7 +110,7 @@ public class ReaderWriter {
 
     // from Map.Entry<String, Ingredient> into String
     public static void writeIngredientsInFile(Map<String, Ingredient> map) {
-	File file = new File("my_ingredients2.txt");
+	File file = new File("my_ingredients.txt");
 	try (PrintWriter writer = new PrintWriter(file)) {
 	    for (Map.Entry<String, Ingredient> entry : map.entrySet()) {
 		Ingredient ingredient = entry.getValue();
@@ -146,7 +146,7 @@ public class ReaderWriter {
     // Gets the recipes from the file
     public static ArrayList<Recipe> loadFileRecipes() {
 	ArrayList<Recipe> recipes = new ArrayList<>();
-	File file = new File("recipes2.txt");
+	File file = new File("recipes.txt");
 	try (Scanner sc = new Scanner(file)) {
 	    while (sc.hasNext()) {
 		if (sc.nextLine().trim().equals("New Recipe")) {
